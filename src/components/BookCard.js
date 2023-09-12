@@ -8,7 +8,7 @@ const BookCard = ({ cover, author, title }) => {
       width={{ base: "100%", small: "" }}
       boxShadow="rgba(13, 26, 38, 0.25) 0px 4px 12px 0px"
     >
-      <Image alt="book1" src={cover} />
+      <Image alt="book1" src={cover} width="10rem" height="15rem" />
 
       <Text fontSize=".8rem">{author}</Text>
       <Heading fontSize=".9rem" fontWeight="700">
