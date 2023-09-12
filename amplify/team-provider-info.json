@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-recab-dev-181647-authRole",
+      "UnauthRoleArn": "arn:aws:iam::179814468997:role/amplify-recab-dev-181647-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::179814468997:role/amplify-recab-dev-181647-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-recab-dev-181647-deployment",
+      "UnauthRoleName": "amplify-recab-dev-181647-unauthRole",
+      "StackName": "amplify-recab-dev-181647",
+      "StackId": "arn:aws:cloudformation:us-west-2:179814468997:stack/amplify-recab-dev-181647/cae88a50-4cd0-11ee-bae9-024ad358d6f5",
+      "AmplifyAppId": "d2huzx09n4wtam"
+    },
+    "categories": {
+      "api": {
+        "recab": {}
+      },
+      "auth": {
+        "recab365b5b4c": {}
+      }
+    }
+  }
+}
