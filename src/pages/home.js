@@ -55,7 +55,7 @@ const HomePage = () => {
                 size="small"
                 backgroundColor="#ff5851"
                 onClick={() =>
-                  route === "'authenticated'"
+                  route === "authenticated"
                     ? setShowAddBook(true)
                     : setShowRequestSignIn(true)
                 }
